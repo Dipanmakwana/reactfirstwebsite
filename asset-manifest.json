@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactfirstwebsite/static/css/main.623785e8.css",
+    "main.js": "/reactfirstwebsite/static/js/main.814ba64d.js",
+    "static/media/about.jpg": "/reactfirstwebsite/static/media/about.c2cfab4a9d01fd24a5a8.jpg",
+    "static/media/img2.jpg": "/reactfirstwebsite/static/media/img2.16ad47facee9bf482e8e.jpg",
+    "index.html": "/reactfirstwebsite/index.html",
+    "main.623785e8.css.map": "/reactfirstwebsite/static/css/main.623785e8.css.map",
+    "main.814ba64d.js.map": "/reactfirstwebsite/static/js/main.814ba64d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.623785e8.css",
+    "static/js/main.814ba64d.js"
+  ]
+}
